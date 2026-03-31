@@ -1,6 +1,6 @@
 package org.example;
 
-public class bai5_khaibaobien {
+public class bai5_khaiBaobien {
     static void main(String[] args) {
         //khai bao bien
         int a;

@@ -1,6 +1,6 @@
 package org.example;
 
-public class bai4_Kieudulieu {
+public class bai4_kieuDulieu {
     public static void main(String[] args) {
         //kiểm tra kiểu nguyên
         System.out.println("max của kiểu int " +Integer.MAX_VALUE);
