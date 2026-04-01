@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class tinh_Bmi {
+public class BmiCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("nhap can nang: ");

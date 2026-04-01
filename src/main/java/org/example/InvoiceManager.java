@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class hoaDon {
+public class InvoiceManager {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double tongTien = 0;

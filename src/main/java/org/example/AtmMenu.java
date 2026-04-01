@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class menuATM {
+public class AtmMenu {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int button;

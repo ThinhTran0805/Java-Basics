@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class BT_tonghieu {
+public class SumDifference {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("nhap tong hai so x va y: ");

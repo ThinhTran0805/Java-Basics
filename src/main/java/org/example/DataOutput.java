@@ -1,6 +1,6 @@
 package org.example;
 
-public class bai2_xuatDulieu {
+public class DataOutput {
     static void main(String[] args) {
         System.out.println("Dong 1");
         System.out.println("Dong 2");

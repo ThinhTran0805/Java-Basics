@@ -1,9 +1,8 @@
 package org.example;
 
-import javax.xml.transform.Source;
 import java.util.Scanner;
 
-public class khungTimkiem {
+public class SearchFrame {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int button;

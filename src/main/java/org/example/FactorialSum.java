@@ -1,6 +1,6 @@
 package org.example;
 
-public class tongGiaithua {
+public class FactorialSum {
     public static void main(String[] args) {
         long tongGiaithua = 0;
         long giaiThua = 1;

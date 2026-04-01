@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class thang_Tinhngay {
+public class DaysInMonth {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap mot thang trong nam");

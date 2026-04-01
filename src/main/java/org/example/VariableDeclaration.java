@@ -1,6 +1,6 @@
 package org.example;
 
-public class bai5_khaiBaobien {
+public class VariableDeclaration {
     static void main(String[] args) {
         //khai bao bien
         int a;

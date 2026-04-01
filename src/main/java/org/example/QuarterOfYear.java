@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class thang_Tinhquy {
+public class QuarterOfYear {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("nhap vao thang can kiem tra: ");

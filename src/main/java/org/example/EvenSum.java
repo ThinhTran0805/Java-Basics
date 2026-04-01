@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class tongChan {
+public class EvenSum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap so ban muon: ");

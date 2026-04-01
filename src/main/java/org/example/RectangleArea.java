@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class bai10_1hcm {
+public class RectangleArea {
     static void main(String[] args) {
         Scanner sc =  new Scanner(System.in);
         System.out.println("Nhap chieu dai hinh chu nhat: ");

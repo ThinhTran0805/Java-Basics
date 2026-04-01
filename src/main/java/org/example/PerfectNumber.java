@@ -1,6 +1,6 @@
 package org.example;
 
-public class soHoanthien {
+public class PerfectNumber {
     public static void main(String[] args) {
         System.out.println("Cac so hoan thien tu 1 den 1000 la: ");
         for (int i = 1; i <= 1000; i++){

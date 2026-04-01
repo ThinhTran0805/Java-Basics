@@ -1,6 +1,6 @@
 package org.example;
 
-public class bai6_epKieudulieu {
+public class TypeCasting {
     static void main(String[] args) {
         int a = 6, b = 12;
         double ketQua = (double) a/b; //int -> double

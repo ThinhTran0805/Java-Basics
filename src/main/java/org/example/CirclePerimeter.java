@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class bai10_chuVi {
+public class CirclePerimeter {
     public void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap ban kinh hinh tron :" );

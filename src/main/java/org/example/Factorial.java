@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class giaiThua {
+public class Factorial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhap vao so can tinh luy thua: ");
