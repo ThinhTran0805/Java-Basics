@@ -6,7 +6,8 @@ This repository is a collection of my Java exercises during my learning journey.
 ## 🎯 Project Goals
 - [x] Master basic Java syntax, data types, and operators.
 - [x] Effectively use control structures (if-else, switch-case) and loops (for, while).
-- [x] Build small interactive console applications (Scanner).
+- [x] Master String manipulation with Regular Expressions (Regex).
+- [x] Gain experience with Java Collections (ArrayList).
 - [x] Practice version control with Git & GitHub.
 
 ---
@@ -15,19 +16,30 @@ This repository is a collection of my Java exercises during my learning journey.
 All exercises are located in `src/main/java/org/example`. Here is the classification:
 
 ### 1. Fundamental Logic & Math
-* ➕ **Basic Operations:** `Calculator.java`, `SumDifference.java`, `SumDifferenceWithCondition.java`
-* 🔢 **Number Theory:** `PerfectNumber.java`, `PrimeNumber.java`, `DigitSum.java`, `DivisibleByThree.java`
+* ➕ **Basic Operations:** `Calculator.java`, `SumDifference.java`, `DataTypes.java`, `TypeCasting.java`, `VariableDeclaration.java`, `DataOutput.java`, `Main.java`
+* 🔢 **Number Theory:** `PerfectNumber.java`, `PrimeNumber.java`, `DigitSum.java`, `DivisibleByThree.java`, `Factorial.java`, `FactorialSum.java`
 * 📉 **Equations:** `QuadraticEquation.java`, `QuadraticSolver.java`
 * 📐 **Geometry:** `CirclePerimeter.java`, `RectangleArea.java`
 
 ### 2. Control Flow & Dates
-* ⚖️ **Conditionals:** `EvenSum.java`, `OddSum.java`, `ExamGrading.java`, `SmallestPositiveInt.java`
+* ⚖️ **Conditionals:** `EvenSum.java`, `OddSum.java`, `ExamGrading.java`, `SmallestPositiveInt.java`, `DivisibleByThree.java`
 * 📅 **Date & Time:** `AgeCalculator.java`, `LeapYearChecker.java`, `DaysInMonth.java`, `QuarterOfYear.java`
-* 🔄 **Loops:** `Factorial.java`, `FactorialSum.java`
+* 🔄 **Loops & Logic:** `Factorial.java`, `FactorialSum.java`, `Solution.java`
 
-### 3. Practical Applications
+### 3. String Manipulation & Regex
+* 🧩 **Text Processing:** `StringNormalization.java`, `StringSeparator.java`, `CheckWord.java`, `CountCharacter.java`
+* 🔐 **Security & Logic:** `MessageEncoder.java`, `StringPalindrome.java`, `PathExtractor.java`
+* 🔢 **Extraction:** `StringNumberExtractor.java`
+
+### 4. Collections & Data Handling
+* 📊 **Array Operations:** `SecondMinMax.java`, `ReverseString.java`, `IndexList.java`
+* 🏗️ **Dynamic Lists:** `RandomList.java` (ArrayList), `SquaredList.java`
+
+### 5. Practical Applications
+* 🔐 **User Systems:** `LoginSystem.java`, `CheckPassword.java`
 * 🏧 **Finance/Service:** `AtmMenu.java`, `InvoiceManager.java`, `BmiCalculator.java`
-* 🔍 **Logic Simulation:** `SearchFrame.java`, `VariableDeclaration.java`, `TypeCasting.java`
+* 🎮 **Interactive:** `MathQuest.java`, `SearchFrame.java`
+* 📂 **Miscellaneous:** `edm_test.html`
 
 ---
 
@@ -38,10 +50,10 @@ All exercises are located in `src/main/java/org/example`. Here is the classifica
 * **Version Control:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ## 💡 How to Run
-1.  **Clone the repository:** git clone [https://github.com/ThinhTran0805/Java-Basics.git](https://github.com/ThinhTran0805/Java-Basics.git)
+1.  **Clone the repository:** `git clone https://github.com/ThinhTran0805/Java-Basics.git`
 2.  **Open with IntelliJ IDEA.**
 3.  **Navigate to** `src/main/java/org/example`.
-4.  **Run any `.java` file** directly from the IDE.
+4.  **Run any .java file** directly from the IDE.
 
 ---
 *Feel free to explore and provide feedback! Happy coding!*
